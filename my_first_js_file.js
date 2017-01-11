@@ -1,2 +1,6 @@
 console.log("Hello team!!!");
-comsole.log("Magnolia");
+console.log("Magnolia");
+
+
+var test = "Hello World";
+console.log(test);
